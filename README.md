@@ -1,2 +1,1 @@
-### Hi there 👋
-<h1> Este es una prueba </h1>
+<h1>Hola y bienvenido a mi GitHub</h1>
