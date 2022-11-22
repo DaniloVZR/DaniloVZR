@@ -1,1 +1,3 @@
-<h1>Hola y bienvenido a mi GitHub</h1>
+<h1>Hola!, soy Danilo Urrego</h1>
+<h3>Bienvenido a mi GitHub</h3>
+<hr/>
