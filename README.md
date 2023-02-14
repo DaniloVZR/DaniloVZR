@@ -14,7 +14,7 @@
 
 <hr/>
 <h5>🔸Email: daniloud2809@gmail.com <h5/>
-<h5>🔸Github: https://github.com/DaniloVZR <h5/>
+<h5>🔸LinkedIn: https://www.linkedin.com/in/joimar-danilo-urrego-david-7a5581248/ <h5/>
 <hr/>
 
 <h2>Tecnologías</h2>
