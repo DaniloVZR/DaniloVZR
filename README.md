@@ -31,9 +31,14 @@
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloVZR&show_icons=true&theme=radical)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVZR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style='display: flex'>
+  <div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloVZR&show_icons=true&theme=radical)    
+  </div>
+  <div
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVZR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</div>  
   
 
           
