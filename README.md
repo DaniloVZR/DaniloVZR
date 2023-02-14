@@ -15,8 +15,8 @@
 <hr/>
 
 <h2>Contacto: <h2/>
-<p>🔸Email: daniloud2809@gmail.com <p/><br/>
-<p>🔸Github: https://github.com/DaniloVZR <p/>
+<h5>🔸Email: daniloud2809@gmail.com <h5/>
+<h5>🔸Github: https://github.com/DaniloVZR <h5/>
 
 <hr/>
 
