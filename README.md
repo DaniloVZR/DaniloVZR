@@ -1,7 +1,5 @@
 <h1>Hola!, soy Danilo Urrego</h1>
-<h3>Bienvenido a mi GitHub</h3>
 <hr/>
-
 <p>Hola! 😁 Soy Danilo Urrego.<p/>
 
 <p>🤠 Soy Desarrollador Web Frontend apasionado y comprometido con mi crecimiento profesional y estoy en la búsqueda de mi primer trabajo como desarrollador. <p/>
