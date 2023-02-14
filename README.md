@@ -30,10 +30,9 @@
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
 </div>
-  
+ <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloVZR&show_icons=true&theme=radical)
   
-![GitHub Stats](https://github-readme-stats.vercel.api?username=DaniloVZR&theme=radical)
 
           
           
