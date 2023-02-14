@@ -13,8 +13,8 @@
 <p>😉 Considero que soy una persona con habilidades blandas valiosas para el desarrollo web, como la capacidad de trabajar en equipo, resolver problemas, aprender rápidamente y prestar atención a los detalles, además de ser una persona proactiva, adaptable y con un fuerte interés por colaborar con los objetivos de la organización y asegurar la excelencia en cada proyecto..</p>
 
 <hr/>
+<h3>Contacto:<h3/>
 <h5>🔸Email: daniloud2809@gmail.com <h5/>
-<h5>🔸LinkedIn: https://www.linkedin.com/in/joimar-danilo-urrego-david-7a5581248/ <h5/>
 <hr/>
 
 <h2>Tecnologías</h2>
