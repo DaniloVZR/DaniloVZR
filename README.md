@@ -33,10 +33,10 @@
 
 <div style='display: flex'>
   <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloVZR&show_icons=true&theme=radical)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloVZR&show_icons=true&theme=radical)    
   </div>
   <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVZR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVZR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 </div>  
   
