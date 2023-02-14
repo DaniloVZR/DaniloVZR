@@ -30,6 +30,8 @@
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
 </div>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.api?username=DaniloVZR&theme=radical)
 
           
           
